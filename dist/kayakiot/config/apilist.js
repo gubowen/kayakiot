@@ -1,0 +1,1 @@
+define("kayakiot/config/apilist",function(require,a,b){var c,d,e;c={},d={},e={},b.exports=$.extend({},{URL:c,URL1:d})});

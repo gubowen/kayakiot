@@ -1,0 +1,1 @@
+!function(){var a;define("kayakiot/main/main",function(require,b,c){"kayak-version 202005091400";c.exports=a})}();

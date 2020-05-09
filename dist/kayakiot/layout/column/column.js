@@ -1,0 +1,1 @@
+define("kayakiot/layout/column/column",function(require,a,b){var c=require("cabincore/layout/layout"),d=require("kayakiot/modules/menu/menu"),e=require("kayakiot/modules/header/header");return c({name:"cabinindex",tpl:"cabincore/layout/column/column.tpl",widgets:{menu:d,header:e}})});

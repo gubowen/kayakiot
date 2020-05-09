@@ -1,0 +1,1 @@
+define("kayakiot/pages/login/login",function(require,a,b){var c,d;require("kayakiot/common/data/ajax"),require("kayakiot/config/apimix");return d=Page({nodeClass:"kayakiot-pages-login",parentClass:"J_Main",source:["kayakiot/pages/login/login.tpl","kayakiot/pages/login/login.css"],show:function(){c.jView=this.jView},hide:function(){}}),c={},d});
